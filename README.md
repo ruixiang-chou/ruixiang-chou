@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 ## [KinectGame](https://github.com/B11115019/kinectGame)
 使用kinect開發的一款互動式遊戲，點進連結可看demo與專案簡報。
 ## Github status
-![B11115019's Stats](https://github-readme-stats.vercel.app/api?username=B11115019&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) 
-![B11115019's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B11115019&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![ruixiang-chou's Stats](https://github-readme-stats.vercel.app/api?username=ruixiang-chou&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![ruixiang-chou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruixiang-chou&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
